@@ -1,2 +1,3 @@
-# audio-electronics
-Different Audio/Music projects using digital or analog audio processing.
+# Hybrid Guitar
+
+Mod for guitar with preamp and mixer with two additional inputs. Output over jack plug or USB type C
